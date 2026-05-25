@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/splash_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F2F2F2">
+
+    <!-- Logo Container -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <!-- ✅ Logo plus grand : 280dp -->
+        <ImageView
+            android:layout_width="480dp"
+            android:layout_height="380dp"
+            android:src="@drawable/logoapp"
+            android:scaleType="fitCenter"
+            android:contentDescription="Aji T3alem Logo"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Texte Aji T3alem -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AJI T3ALEM"
+            android:textSize="36sp"
+            android:textColor="#58CC02"
+            android:textStyle="bold"
+            android:letterSpacing="0.15"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Sous-titre -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Learn Languages • تعلم اللغات"
+            android:textSize="14sp"
+            android:textColor="#999999"
+            android:letterSpacing="0.05" />
+
+    </LinearLayout>
+
+    <!-- Indicateur de chargement -->
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="80dp"
+        android:indeterminateTint="#58CC02" />
+
+</RelativeLayout>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#F5F5F5"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center_horizontal">
+
+        <!-- Logo -->
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@drawable/logoapp"
+            android:scaleType="fitCenter"
+            android:contentDescription="Aji T3alem Logo"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Titre -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Connexion"
+            android:textSize="28sp"
+            android:textColor="#333333"
+            android:textStyle="bold"
+            android:layout_marginBottom="30dp" />
+
+        <!-- Champ Email -->
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            app:boxStrokeColor="#58CC02"
+            app:hintTextColor="#58CC02"
+            app:startIconDrawable="@drawable/ic_email"
+            app:startIconTint="#58CC02">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Email"
+                android:inputType="textEmailAddress"
+                android:padding="16dp"
+                android:textColor="#333333"
+                android:textColorHint="#999999" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Champ Mot de passe -->
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            app:boxStrokeColor="#58CC02"
+            app:hintTextColor="#58CC02"
+            app:passwordToggleEnabled="true"
+            app:passwordToggleTint="#58CC02"
+            app:startIconDrawable="@drawable/ic_lock"
+            app:startIconTint="#58CC02">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Mot de passe"
+                android:inputType="textPassword"
+                android:padding="16dp"
+                android:textColor="#333333"
+                android:textColorHint="#999999" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Bouton Connexion -->
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/buttonLogin"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="CONNEXION"
+            android:textColor="#58CC02"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:background="@drawable/button_green_rounded"
+            android:layout_marginBottom="30dp" />
+
+        <!-- Lien Inscription -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pas de compte ? "
+                android:textColor="#999999"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/btnRegister"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="S'inscrire"
+                android:textColor="#58CC02"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

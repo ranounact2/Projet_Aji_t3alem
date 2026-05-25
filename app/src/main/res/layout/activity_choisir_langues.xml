@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center_horizontal">
+
+        <!-- ✅ Logo au lieu du triangle -->
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="150dp"
+            android:src="@drawable/logoapp"
+            android:scaleType="fitCenter"
+            android:contentDescription="Logo"
+            android:layout_marginTop="20dp" />
+
+        <!-- ✅ Animation Lottie (cachée) -->
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/lottieWelcome"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:visibility="gone"
+            app:lottie_autoPlay="false"
+            app:lottie_loop="false" />
+
+        <!-- Titre -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Choisissez votre langue"
+            android:textSize="24sp"
+            android:textColor="#333333"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp" />
+
+        <!-- Sous-titre -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select your language • اختر لغتك"
+            android:textSize="14sp"
+            android:textColor="#999999"
+            android:layout_marginBottom="24dp" />
+
+        <!-- ✅ Lottie chargement -->
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/lottieLoading"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            app:lottie_autoPlay="false"
+            app:lottie_loop="true" />
+
+        <!-- CONTENEUR DYNAMIQUE -->
+        <LinearLayout
+            android:id="@+id/dynamic_language_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+
+        <!-- ProgressBar (fallback) -->
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:visibility="gone"
+            android:indeterminateTint="#58CC02"
+            android:layout_marginTop="20dp" />
+
+        <!-- Boutons masqués -->
+        <View android:id="@+id/arabicbtn" android:layout_width="0dp" android:layout_height="0dp" android:visibility="gone" />
+        <View android:id="@+id/frenchbtn" android:layout_width="0dp" android:layout_height="0dp" android:visibility="gone" />
+        <View android:id="@+id/englishbtn" android:layout_width="0dp" android:layout_height="0dp" android:visibility="gone" />
+        <View android:id="@+id/darijabtn" android:layout_width="0dp" android:layout_height="0dp" android:visibility="gone" />
+        <View android:id="@+id/espagnol" android:layout_width="0dp" android:layout_height="0dp" android:visibility="gone" />
+
+    </LinearLayout>
+</ScrollView>

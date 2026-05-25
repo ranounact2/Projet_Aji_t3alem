@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/score_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center_horizontal">
+
+        <!-- ✅ Logo -->
+        <ImageView
+            android:layout_width="500dp"
+            android:layout_height="100dp"
+            android:src="@drawable/logoapp"
+            android:scaleType="fitCenter"
+            android:contentDescription="Logo"
+            android:layout_marginTop="20dp" />
+
+        <!-- ✅ Animation Champion (avatar + trophée) -->
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/lottieChampion"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="8dp"
+            app:lottie_autoPlay="true"
+            app:lottie_speed="1"
+            app:lottie_url="@raw/champion"
+             />
+
+        <!-- Titre -->
+        <TextView
+            android:id="@+id/tvTitreScore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Félicitations !"
+            android:textSize="28sp"
+            android:textColor="#333333"
+            android:textStyle="bold"
+            android:layout_marginBottom="4dp" />
+
+        <!-- Sous-titre -->
+        <TextView
+            android:id="@+id/tvSousTitre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Quiz terminé"
+            android:textSize="14sp"
+            android:textColor="#999999"
+            android:layout_marginBottom="20dp" />
+
+        <!-- ✅ Carte Score Principal -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="8dp"
+            android:layout_marginBottom="24dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="24dp"
+                android:background="#FFFFFF"
+                android:gravity="center">
+
+                <!-- Cercle Score -->
+                <LinearLayout
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:gravity="center"
+                    android:layout_marginBottom="12dp"
+                    android:background="@drawable/circle_score_bg">
+
+                    <TextView
+                        android:id="@+id/tvScoreGlobal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="85%"
+                        android:textSize="32sp"
+                        android:textColor="#58CC02"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tvScoreTexte"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Score Global"
+                    android:textSize="14sp"
+                    android:textColor="#999999"
+                    android:layout_marginBottom="4dp" />
+
+                <TextView
+                    android:id="@+id/tvPoints"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="255 / 300 points"
+                    android:textSize="16sp"
+                    android:textColor="#58CC02"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- ✅ Détails par Niveau -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="📊 Détails par niveau"
+            android:textSize="16sp"
+            android:textColor="#333333"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Niveau Facile 🟢 -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="4dp"
+            android:layout_marginBottom="12dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="16dp"
+                android:background="#FFFFFF"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:text="🟢"
+                    android:textSize="24sp"
+                    android:gravity="center"
+                    android:layout_marginEnd="12dp" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Niveau Facile"
+                        android:textSize="15sp"
+                        android:textColor="#333333"
+                        android:textStyle="bold" />
+
+                    <!-- Barre progression -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="8dp"
+                        android:background="#E0E0E0"
+                        android:layout_marginTop="6dp"
+                        android:layout_marginBottom="4dp">
+
+                        <View
+                            android:id="@+id/barFacile"
+                            android:layout_width="80dp"
+                            android:layout_height="match_parent"
+                            android:background="#58CC02" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tvScoreFacile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="8/10"
+                    android:textSize="16sp"
+                    android:textColor="#58CC02"
+                    android:textStyle="bold"
+                    android:layout_marginStart="12dp" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Niveau Moyen 🟠 -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="4dp"
+            android:layout_marginBottom="12dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="16dp"
+                android:background="#FFFFFF"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:text="🟠"
+                    android:textSize="24sp"
+                    android:gravity="center"
+                    android:layout_marginEnd="12dp" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Niveau Moyen"
+                        android:textSize="15sp"
+                        android:textColor="#333333"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="8dp"
+                        android:background="#E0E0E0"
+                        android:layout_marginTop="6dp"
+                        android:layout_marginBottom="4dp">
+
+                        <View
+                            android:id="@+id/barMoyen"
+                            android:layout_width="60dp"
+                            android:layout_height="match_parent"
+                            android:background="#FF9800" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tvScoreMoyen"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="6/10"
+                    android:textSize="16sp"
+                    android:textColor="#FF9800"
+                    android:textStyle="bold"
+                    android:layout_marginStart="12dp" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Niveau Difficile 🔴 -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="4dp"
+            android:layout_marginBottom="24dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="16dp"
+                android:background="#FFFFFF"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:text="🔴"
+                    android:textSize="24sp"
+                    android:gravity="center"
+                    android:layout_marginEnd="12dp" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Niveau Difficile"
+                        android:textSize="15sp"
+                        android:textColor="#333333"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="8dp"
+                        android:background="#E0E0E0"
+                        android:layout_marginTop="6dp"
+                        android:layout_marginBottom="4dp">
+
+                        <View
+                            android:id="@+id/barDifficile"
+                            android:layout_width="40dp"
+                            android:layout_height="match_parent"
+                            android:background="#F44336" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tvScoreDifficile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="4/10"
+                    android:textSize="16sp"
+                    android:textColor="#F44336"
+                    android:textStyle="bold"
+                    android:layout_marginStart="12dp" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Boutons -->
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnRefaire"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:text="🔄 REFAIRE LE QUIZ"
+            android:textColor="#58CC02"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:background="@drawable/button_green_rounded"
+            android:layout_marginBottom="12dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnChangerLangue"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:text="🌍 CHOISIR UNE AUTRE LANGUE"
+            android:textColor="#58CC02"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:background="@drawable/button_white_bordered_green"
+            android:layout_marginBottom="24dp" />
+
+    </LinearLayout>
+</ScrollView>

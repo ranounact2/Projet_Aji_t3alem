@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <!-- Preview Caméra -->
+    <androidx.camera.view.PreviewView
+        android:id="@+id/previewView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter"/>
+
+    <!-- Cadre pour le visage -->
+    <View
+        android:id="@+id/overlayCadreVisage"
+        android:layout_width="280dp"
+        android:layout_height="280dp"
+        android:layout_gravity="center"
+        android:background="@drawable/cadre_visage_vert"/>
+
+    <!-- Informations en bas -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:background="#CC000000">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <View
+                android:id="@+id/indicateurCouleur"
+                android:layout_width="12dp"
+                android:layout_height="12dp"
+                android:background="#58CC02"/>
+
+            <TextView
+                android:id="@+id/txtStatut"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Placez votre visage"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:paddingStart="12dp"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txtAlertes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#FFA500"
+            android:textSize="14sp"
+            android:paddingTop="8dp"/>
+
+        <Button
+            android:id="@+id/btnContinuer"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:text="CONTINUER"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#58CC02"
+            android:layout_marginTop="16dp"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+</FrameLayout>

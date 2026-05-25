@@ -1,0 +1,1642 @@
+[
+  {
+    "question": "Comment dit-on \"dog\" en francais ?",
+    "reponse": "chien",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'C'",
+      "La réponse contient 5 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Quel est le contraire de \"grand\" ?",
+    "reponse": "petit",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'P'",
+      "La réponse contient 5 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Comment dit-on \"hello\" en francais ?",
+    "reponse": "bonjour",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'B'",
+      "La réponse contient 7 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Quelle est la couleur du ciel ?",
+    "reponse": "bleu",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'B'",
+      "La réponse contient 4 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Comment dit-on \"cat\" en francais ?",
+    "reponse": "chat",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'C'",
+      "La réponse contient 4 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Quel est le fruit jaune ?",
+    "reponse": "banane",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'B'",
+      "La réponse contient 6 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Comment dit-on \"car\" en francais ?",
+    "reponse": "voiture",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'V'",
+      "La réponse contient 7 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Quel animal fait \"meuh\" ?",
+    "reponse": "vache",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'V'",
+      "La réponse contient 5 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Comment dit-on \"water\" en francais ?",
+    "reponse": "eau",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'E'",
+      "La réponse contient 3 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Quel est le contraire de \"chaud\" ?",
+    "reponse": "froid",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'F'",
+      "La réponse contient 5 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Combien de jours y a-t-il dans une semaine ?",
+    "reponse": "sept",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'S'",
+      "La réponse contient 4 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Comment dit-on \"mother\" en francais ?",
+    "reponse": "mere",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'M'",
+      "La réponse contient 4 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Ou se trouve la Tour Eiffel ?",
+    "reponse": "Paris",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'P'",
+      "La réponse contient 5 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Quel est le legume orange prefere des lapins ?",
+    "reponse": "carotte",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'C'",
+      "La réponse contient 7 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Comment dit-on \"sun\" en francais ?",
+    "reponse": "soleil",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'S'",
+      "La réponse contient 6 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Ecrivez le mot pour \"bread",
+    "reponse": "pain",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'P'",
+      "La réponse contient 4 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Ecrivez le chiffre 5",
+    "reponse": "cinq",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'C'",
+      "La réponse contient 4 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Ecrivez la couleur de la neige",
+    "reponse": "blanc",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'B'",
+      "La réponse contient 5 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Ecrivez \"thank you\" en francais",
+    "reponse": "merci",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'M'",
+      "La réponse contient 5 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Prononcez : Bonjour, comment allez-vous ?",
+    "reponse": "Bonjour, comment allez-vous ?",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'B'",
+      "La réponse contient 29 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Prononcez : Je m'appelle Marie",
+    "reponse": "Je m'appelle Marie",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'J'",
+      "La réponse contient 18 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Comment dit-on \"butterfly\" en francais ?",
+    "reponse": "papillon",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'P'",
+      "La réponse contient 8 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Quel est le passe compose de \"aller\" ?",
+    "reponse": "suis alle",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'S'",
+      "La réponse contient 9 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Comment dit-on \"library\" en francais ?",
+    "reponse": "bibliotheque",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'B'",
+      "La réponse contient 12 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Quel est le feminin de \"acteur\" ?",
+    "reponse": "actrice",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'A'",
+      "La réponse contient 7 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Comment dit-on \"tomorrow\" en francais ?",
+    "reponse": "demain",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'D'",
+      "La réponse contient 6 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Que signifie \"avoir la tete dans les nuages\" ?",
+    "reponse": "etre distrait",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'E'",
+      "La réponse contient 13 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Comment dit-on \"expensive\" en francais ?",
+    "reponse": "cher",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'C'",
+      "La réponse contient 4 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Quelle est la bonne orthographe ?",
+    "reponse": "parapluie",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'P'",
+      "La réponse contient 9 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Que signifie \"poser un lapin\" ?",
+    "reponse": "ne pas venir a un rendez-vous",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'N'",
+      "La réponse contient 29 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Comment dit-on \"I love you\" en francais ?",
+    "reponse": "je t'aime",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'J'",
+      "La réponse contient 9 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Ecrivez le mot pour \"beautiful\" (feminin)",
+    "reponse": "belle",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'B'",
+      "La réponse contient 5 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Ecrivez le nombre 80 en francais",
+    "reponse": "quatre-vingts",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'Q'",
+      "La réponse contient 13 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Ecrivez le contraire de \"riche",
+    "reponse": "pauvre",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'P'",
+      "La réponse contient 6 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Prononcez : Je voudrais un cafe s'il vous plait",
+    "reponse": "Je voudrais un cafe s'il vous plait",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'J'",
+      "La réponse contient 35 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Prononcez : Quelle heure est-il ?",
+    "reponse": "Quelle heure est-il ?",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'Q'",
+      "La réponse contient 21 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Quel est le subjonctif present de \"avoir\" pour \"que je\" ?",
+    "reponse": "aie",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'A'",
+      "La réponse contient 3 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Que signifie \"chercher midi a quatorze heures\" ?",
+    "reponse": "chercher une solution compliquee",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'C'",
+      "La réponse contient 32 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Comment s'appelle l'accord du participe passe avec \"avoir\" ?",
+    "reponse": "accord avec le COD antepose",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'A'",
+      "La réponse contient 27 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Ecrivez le mot : \"excessive admiration of oneself",
+    "reponse": "vanite",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'V'",
+      "La réponse contient 6 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "Prononcez : Si j'avais su, je serais venu plus tot",
+    "reponse": "Si j'avais su, je serais venu plus tot",
+    "langue": "Français",
+    "indices": [
+      "La réponse commence par la lettre 'S'",
+      "La réponse contient 38 caractères",
+      "C'est un mot français courant"
+    ]
+  },
+  {
+    "question": "What is the color of the sky?",
+    "reponse": "blue",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'B'",
+      "La réponse contient 4 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "How do you say \"chat\" in English?",
+    "reponse": "cat",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'C'",
+      "La réponse contient 3 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What is the opposite of \"hot\"?",
+    "reponse": "cold",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'C'",
+      "La réponse contient 4 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "How many days in a week?",
+    "reponse": "seven",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'S'",
+      "La réponse contient 5 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What animal says \"woof\"?",
+    "reponse": "dog",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'D'",
+      "La réponse contient 3 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "How do you say \"maison\" in English?",
+    "reponse": "house",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'H'",
+      "La réponse contient 5 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What is the fruit that is red and round?",
+    "reponse": "apple",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'A'",
+      "La réponse contient 5 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "How do you say \"voiture\" in English?",
+    "reponse": "car",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'C'",
+      "La réponse contient 3 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What do you drink that is white?",
+    "reponse": "milk",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'M'",
+      "La réponse contient 4 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What number comes after three?",
+    "reponse": "four",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'F'",
+      "La réponse contient 4 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "How do you say \"pere\" in English?",
+    "reponse": "father",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'F'",
+      "La réponse contient 6 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What do you put on your feet?",
+    "reponse": "shoes",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'S'",
+      "La réponse contient 5 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "How do you say \"soleil\" in English?",
+    "reponse": "sun",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'S'",
+      "La réponse contient 3 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What animal lives in water?",
+    "reponse": "fish",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'F'",
+      "La réponse contient 4 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "How do you say \"heureux\" in English?",
+    "reponse": "happy",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'H'",
+      "La réponse contient 5 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "Write the word for \"water",
+    "reponse": "water",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'W'",
+      "La réponse contient 5 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "Write the number 9",
+    "reponse": "nine",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'N'",
+      "La réponse contient 4 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "Write the color of grass",
+    "reponse": "green",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'G'",
+      "La réponse contient 5 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "Write \"thank you",
+    "reponse": "thank you",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'T'",
+      "La réponse contient 9 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "Pronounce: Hello, how are you?",
+    "reponse": "Hello, how are you?",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'H'",
+      "La réponse contient 19 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "Pronounce: My name is John",
+    "reponse": "My name is John",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'M'",
+      "La réponse contient 15 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What is the past tense of \"go\"?",
+    "reponse": "went",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'W'",
+      "La réponse contient 4 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "How do you say \"papillon\" in English?",
+    "reponse": "butterfly",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'B'",
+      "La réponse contient 9 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What is the opposite of \"expensive\"?",
+    "reponse": "cheap",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'C'",
+      "La réponse contient 5 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "How do you say \"comprendre\" in English?",
+    "reponse": "understand",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'U'",
+      "La réponse contient 10 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What is the comparative of \"good\"?",
+    "reponse": "better",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'B'",
+      "La réponse contient 6 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What is the plural of \"child\"?",
+    "reponse": "children",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'C'",
+      "La réponse contient 8 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "How do you say \"bibliotheque\" in English?",
+    "reponse": "library",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'L'",
+      "La réponse contient 7 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What does \"break a leg\" mean?",
+    "reponse": "good luck",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'G'",
+      "La réponse contient 9 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What tense is \"I have eaten\"?",
+    "reponse": "present perfect",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'P'",
+      "La réponse contient 15 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "How do you say \"aujourd'hui\" in English?",
+    "reponse": "today",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'T'",
+      "La réponse contient 5 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "Write the word for \"beautiful",
+    "reponse": "beautiful",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'B'",
+      "La réponse contient 9 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "Write the past tense of \"eat",
+    "reponse": "ate",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'A'",
+      "La réponse contient 3 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "Write the word for \"courageous",
+    "reponse": "brave",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'B'",
+      "La réponse contient 5 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "Pronounce: I would like a cup of coffee please",
+    "reponse": "I would like a cup of coffee please",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'I'",
+      "La réponse contient 35 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "Pronounce: What time does the train leave?",
+    "reponse": "What time does the train leave?",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'W'",
+      "La réponse contient 31 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What is the past participle of \"swim\"?",
+    "reponse": "swum",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'S'",
+      "La réponse contient 4 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What does \"serendipity\" mean?",
+    "reponse": "fortunate discovery",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'F'",
+      "La réponse contient 19 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "What is the plural of \"phenomenon\"?",
+    "reponse": "phenomena",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'P'",
+      "La réponse contient 9 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "Write the word meaning \"unwilling to spend money",
+    "reponse": "stingy",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'S'",
+      "La réponse contient 6 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "Pronounce: If I had known, I would have come earlier",
+    "reponse": "If I had known, I would have come earlier",
+    "langue": "Anglais",
+    "indices": [
+      "La réponse commence par la lettre 'I'",
+      "La réponse contient 41 caractères",
+      "It's a common English word"
+    ]
+  },
+  {
+    "question": "كيف نقول \"dog\" بالعربية؟",
+    "reponse": "كلب",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ك'",
+      "La réponse contient 3 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما هو لون السماء؟",
+    "reponse": "أزرق",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'أ'",
+      "La réponse contient 4 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"house\" بالعربية؟",
+    "reponse": "بيت",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ب'",
+      "La réponse contient 3 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما هو عكس \"ساخن\"؟",
+    "reponse": "بارد",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ب'",
+      "La réponse contient 4 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كم عدد أيام الأسبوع؟",
+    "reponse": "سبعة",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'س'",
+      "La réponse contient 4 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما الحيوان الذي يقول \"مواء\"؟",
+    "reponse": "قطة",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ق'",
+      "La réponse contient 3 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"water\" بالعربية؟",
+    "reponse": "ماء",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'م'",
+      "La réponse contient 3 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما هي الفاكهة الصفراء؟",
+    "reponse": "موز",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'م'",
+      "La réponse contient 3 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"mother\" بالعربية؟",
+    "reponse": "أم",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'أ'",
+      "La réponse contient 2 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما هو الرقم بعد اثنين؟",
+    "reponse": "ثلاثة",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ث'",
+      "La réponse contient 5 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"car\" بالعربية؟",
+    "reponse": "سيارة",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'س'",
+      "La réponse contient 5 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما هو الشراب الساخن الأسود؟",
+    "reponse": "قهوة",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ق'",
+      "La réponse contient 4 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"sun\" بالعربية؟",
+    "reponse": "شمس",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ش'",
+      "La réponse contient 3 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما الحيوان الذي يعيش في الماء؟",
+    "reponse": "سمكة",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'س'",
+      "La réponse contient 4 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"happy\" بالعربية؟",
+    "reponse": "سعيد",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'س'",
+      "La réponse contient 4 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "اكتب كلمة \"خبز",
+    "reponse": "خبز",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'خ'",
+      "La réponse contient 3 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "اكتب الرقم 8",
+    "reponse": "ثمانية",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ث'",
+      "La réponse contient 6 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "اكتب لون الثلج",
+    "reponse": "أبيض",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'أ'",
+      "La réponse contient 4 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "اكتب \"شكراً",
+    "reponse": "شكراً",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ش'",
+      "La réponse contient 5 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "انطق: السلام عليكم، كيف حالك؟",
+    "reponse": "السلام عليكم، كيف حالك؟",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ا'",
+      "La réponse contient 23 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "انطق: اسمي أحمد",
+    "reponse": "اسمي أحمد",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ا'",
+      "La réponse contient 9 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"butterfly\" بالعربية؟",
+    "reponse": "فراشة",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ف'",
+      "La réponse contient 5 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما هو الماضي من \"يذهب\"؟",
+    "reponse": "ذهب",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ذ'",
+      "La réponse contient 3 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"library\" بالعربية؟",
+    "reponse": "مكتبة",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'م'",
+      "La réponse contient 5 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما هو مؤنث \"كاتب\"؟",
+    "reponse": "كاتبة",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ك'",
+      "La réponse contient 5 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"tomorrow\" بالعربية؟",
+    "reponse": "غداً",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'غ'",
+      "La réponse contient 4 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما معنى \"رمضان\"؟",
+    "reponse": "شهر الصيام",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ش'",
+      "La réponse contient 10 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"expensive\" بالعربية؟",
+    "reponse": "غالي",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'غ'",
+      "La réponse contient 4 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما هو جمع \"كتاب\"؟",
+    "reponse": "كتب",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ك'",
+      "La réponse contient 3 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما هو المضارع من \"كتب\"؟",
+    "reponse": "يكتب",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ي'",
+      "La réponse contient 4 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"I love you\" بالعربية؟",
+    "reponse": "أنا أحبك",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'أ'",
+      "La réponse contient 8 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "اكتب كلمة \"جميلة",
+    "reponse": "جميلة",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ج'",
+      "La réponse contient 5 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "اكتب الرقم 70",
+    "reponse": "سبعون",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'س'",
+      "La réponse contient 5 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "اكتب الفعل الماضي من \"يشرب",
+    "reponse": "شرب",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ش'",
+      "La réponse contient 3 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "انطق: أريد فنجان قهوة من فضلك",
+    "reponse": "أريد فنجان قهوة من فضلك",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'أ'",
+      "La réponse contient 23 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "انطق: كم الساعة الآن؟",
+    "reponse": "كم الساعة الآن؟",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ك'",
+      "La réponse contient 15 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما هو إعراب \"إن\" في \"إن الله غفور\"؟",
+    "reponse": "حرف توكيد ونصب",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ح'",
+      "La réponse contient 14 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"mindfulness\" بالعربية؟",
+    "reponse": "وعي كامل",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'و'",
+      "La réponse contient 8 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "ما هو جمع \"عالم\"؟",
+    "reponse": "علماء",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ع'",
+      "La réponse contient 5 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "اكتب كلمة تعني \"التواضع",
+    "reponse": "تواضع",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ت'",
+      "La réponse contient 5 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "انطق: لو علمت لأتيت مبكراً",
+    "reponse": "لو علمت لأتيت مبكراً",
+    "langue": "Arabe",
+    "indices": [
+      "La réponse commence par la lettre 'ل'",
+      "La réponse contient 20 caractères",
+      "إنها كلمة عربية شائعة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"dog\" بالدارجة؟",
+    "reponse": "كلب",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ك'",
+      "La réponse contient 3 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو لون السماء؟",
+    "reponse": "زرق",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ز'",
+      "La réponse contient 3 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"house\" بالدارجة؟",
+    "reponse": "دار",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'د'",
+      "La réponse contient 3 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو عكس \"ساخن\"؟",
+    "reponse": "بارد",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ب'",
+      "La réponse contient 4 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شحال نهار فالأسبوع؟",
+    "reponse": "سبعة",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'س'",
+      "La réponse contient 4 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو الحيوان كاين بحال \"مواء\"؟",
+    "reponse": "مش",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'م'",
+      "La réponse contient 2 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"water\" بالدارجة؟",
+    "reponse": "ما",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'م'",
+      "La réponse contient 2 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو هي الفاكهة الصفرة؟",
+    "reponse": "بانانة",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ب'",
+      "La réponse contient 6 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"mother\" بالدارجة؟",
+    "reponse": "يمّا",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ي'",
+      "La réponse contient 4 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو هو الرقم من بعد تنين؟",
+    "reponse": "تلاتة",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ت'",
+      "La réponse contient 5 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"car\" بالدارجة؟",
+    "reponse": "طونوبيل",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ط'",
+      "La réponse contient 7 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو المشروب الساخن الأسود؟",
+    "reponse": "قهوة",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ق'",
+      "La réponse contient 4 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"sun\" بالدارجة؟",
+    "reponse": "شمس",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ش'",
+      "La réponse contient 3 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو الحيوم كتعيش فما؟",
+    "reponse": "حوت",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ح'",
+      "La réponse contient 3 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"happy\" بالدارجة؟",
+    "reponse": "فرحان",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ف'",
+      "La réponse contient 5 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "اكتب الكلمة \"خبز\" بالدارجة",
+    "reponse": "خبز",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'خ'",
+      "La réponse contient 3 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "اكتب الرقم 8 بالدارجة",
+    "reponse": "تمنية",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ت'",
+      "La réponse contient 5 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "اكتب لون التلج",
+    "reponse": "بيض",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ب'",
+      "La réponse contient 3 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "اكتب \"شكراً\" بالدارجة",
+    "reponse": "شكراً",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ش'",
+      "La réponse contient 5 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "انطق: السلام عليكم، كيف نتينتي؟",
+    "reponse": "السلام عليكم، كيف نتينتي؟",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ا'",
+      "La réponse contient 25 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "انطق: اسمي محمد",
+    "reponse": "اسمي محمد",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ا'",
+      "La réponse contient 9 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"butterfly\" بالدارجة؟",
+    "reponse": "فرطاسة",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ف'",
+      "La réponse contient 6 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو هو الماضي من \"يمشي\"؟",
+    "reponse": "مشى",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'م'",
+      "La réponse contient 3 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"library\" بالدارجة؟",
+    "reponse": "مكتبة",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'م'",
+      "La réponse contient 5 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو هو مؤنث \"معلّم\"؟",
+    "reponse": "معلّمة",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'م'",
+      "La réponse contient 6 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"tomorrow\" بالدارجة؟",
+    "reponse": "غدّة",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'غ'",
+      "La réponse contient 4 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو معنى \"الدارجة\"؟",
+    "reponse": "اللغة المغربية",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ا'",
+      "La réponse contient 14 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"expensive\" بالدارجة؟",
+    "reponse": "غالي",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'غ'",
+      "La réponse contient 4 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو هو \"الكُسْكُس\"؟",
+    "reponse": "أكلة مغربية",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'أ'",
+      "La réponse contient 11 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو هو الجمع ديال \"كتاب\"؟",
+    "reponse": "كُتب",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ك'",
+      "La réponse contient 4 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"I love you\" بالدارجة؟",
+    "reponse": "كنحبك",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ك'",
+      "La réponse contient 5 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "اكتب كلمة \"جميلة\" بالدارجة",
+    "reponse": "جميلة",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ج'",
+      "La réponse contient 5 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "اكتب الرقم 50 بالدارجة",
+    "reponse": "خمسين",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'خ'",
+      "La réponse contient 5 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "اكتب الماضي ديال \"ياكل",
+    "reponse": "كال",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ك'",
+      "La réponse contient 3 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "انطق: بغيت قهوة من فضلك",
+    "reponse": "بغيت قهوة من فضلك",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ب'",
+      "La réponse contient 17 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "انطق: شحال فالساعة؟",
+    "reponse": "شحال فالساعة؟",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ش'",
+      "La réponse contient 13 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو معنى \"حنزيك\" بالدارجة؟",
+    "reponse": "سأعطيك",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'س'",
+      "La réponse contient 6 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "كيف نقول \"mindfulness\" بالدارجة؟",
+    "reponse": "وعي كامل",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'و'",
+      "La réponse contient 8 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "شنو هو جمع \"عالم\" بالدارجة؟",
+    "reponse": "علماء",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ع'",
+      "La réponse contient 5 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "اكتب كلمة تعني \"التواضع\" بالدارجة",
+    "reponse": "تواضع",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ت'",
+      "La réponse contient 5 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  },
+  {
+    "question": "انطق: لا كنت عارف، جيت",
+    "reponse": "لا كنت عارف، جيت",
+    "langue": "Darija",
+    "indices": [
+      "La réponse commence par la lettre 'ل'",
+      "La réponse contient 16 caractères",
+      "كلمة دارجة معروفة"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#CC000000"
+    android:padding="40dp">
+
+    <!-- Icône avertissement -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="⚠️"
+        android:textSize="80sp"
+        android:gravity="center"
+        android:layout_marginBottom="24dp" />
+
+    <!-- Titre -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quiz Bloqué !"
+        android:textSize="28sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Raison -->
+    <TextView
+        android:id="@+id/tvRaison"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vous ne regardez pas l'écran"
+        android:textSize="18sp"
+        android:textColor="#FFA500"
+        android:gravity="center"
+        android:layout_marginBottom="32dp" />
+
+    <!-- Instruction -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="👆 Regardez l'écran pour continuer"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:layout_marginBottom="32dp" />
+
+    <!-- Bouton Reprendre -->
+    <Button
+        android:id="@+id/btnReprendre"
+        android:layout_width="200dp"
+        android:layout_height="56dp"
+        android:text="J'AI REGARDÉ"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:backgroundTint="#58CC02"
+        android:enabled="false" />
+
+</LinearLayout>

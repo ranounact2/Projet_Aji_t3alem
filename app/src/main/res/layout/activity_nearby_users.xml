@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F5F5F5">
+
+    <!-- Barre supérieure -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="#FFFFFF"
+        android:elevation="4dp"
+        android:paddingHorizontal="16dp">
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:text="←"
+            android:textSize="20sp"
+            android:textColor="#333333"
+            android:backgroundTint="#F5F5F5" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="🗺️ Apprenants près de vous"
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:textStyle="bold"
+            android:gravity="center" />
+
+        <Button
+            android:id="@+id/btnRefresh"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:text="🔄"
+            android:textSize="18sp"
+            android:backgroundTint="#58CC02" />
+    </LinearLayout>
+
+    <!-- Map -->
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="250dp" />
+
+    <!-- Barre de statut -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:padding="16dp"
+        android:background="#FFFFFF">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:visibility="gone"
+            android:layout_marginEnd="12dp"
+            android:indeterminateTint="#58CC02" />
+
+        <TextView
+            android:id="@+id/tvUserCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Recherche en cours..."
+            android:textSize="14sp"
+            android:textColor="#58CC02"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <!-- Liste des utilisateurs -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:id="@+id/usersListContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- Pour Google Maps -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Utilisation caméra frontale obligatoire -->
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Dkhel_t3alem_raniabadi"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".NearbyUsersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CameraVerificationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PermissionsActivity"
+            android:exported="false" />
+
+
+        <service android:name=".LocationService" />
+
+
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAOVYRIgupAurZup5y1PRh8Ismb1A3lLao" />
+
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".ScoreFinal"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionsList"
+            android:exported="false" />
+        <activity
+            android:name=".ChoisirLangues"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
